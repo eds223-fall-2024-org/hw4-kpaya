@@ -1,5 +1,8 @@
-.Rproj.user
+# Ignore the data folder
+/data/
+
+# Other common R-related ignores
 .Rhistory
 .RData
-.Ruserdata
-data/
+.Rproj.user
+*.Rproj
